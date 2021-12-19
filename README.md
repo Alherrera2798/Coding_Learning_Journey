@@ -1,3 +1,5 @@
-# statsAssignment7
-Tutorial for repository
-[BS Health Science Unofficial Transcript - Alejandro Herrera.pdf](https://github.com/Alherrera2798/statsAssignment7/files/7080055/BS.Health.Science.Unofficial.Transcript.-.Alejandro.Herrera.pdf)
+#**Learing Code**
+
+# In this repository I upload python based tutorials from various learning resources:
+
+# DSfS.py files are practice tutorials/notes i've learned throughout the course of reading Data Science from Scratch by Joel Grus
